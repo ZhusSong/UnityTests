@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-1.unity
+    guid: 49156de9c813c0b43b7286a88cde08f1
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-2.unity
+    guid: a81fde6a1b38852489b1542964ac799d
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-3.unity
+    guid: f723f93dbb99a8b43b51b134c1d0de96
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-4.unity
+    guid: 6012bbff37a8edf41ae7d5325a30edd7
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-5.unity
+    guid: b37b68d6f45ce0844b2f5e1b542cccf6
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-6.unity
+    guid: 456926f7887d73c4195d77c53b20c792
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-7.unity
+    guid: 6cc09492431b2304c9a05f0208de6afe
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-8.unity
+    guid: b9cd9ead77f339a40a680e834b6a8500
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-9.unity
+    guid: 329beadb08f8b6f4db22f4c81f7255e1
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-10.unity
+    guid: 6047836475d65234594d2d37258ef597
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-11.unity
+    guid: b1b3a24fefbf5914d95f392f404c0e19
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-12.unity
+    guid: 074f6cb7a48feeb4e8336eb1505b8539
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-13.unity
+    guid: 991cc0b8a6568984e8e6832a16325506
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-14.unity
+    guid: 4d511fb01565b5c4eb3b0c92fadbf75c
+  - enabled: 1
+    path: Assets/PenguinAdventure/Scene/World 01/W1-15.unity
+    guid: 28e85233d0fab944687d907a074bd51c
+  m_configObjects: {}
