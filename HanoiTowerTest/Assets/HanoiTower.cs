@@ -50,18 +50,16 @@ public GameObject[] Pillar=new GameObject[3];                           //柱子
 
 	IEnumerator StartHanioMove(int n,List<GameObject> StartPos,List<GameObject>  TransitionPos,List<GameObject> EndPos,string startName,string transitionName,string endName)
 	{
-			if (n==0)
-	       yield break;
-			if (n == 1)
-			{ 
-				yield return Move(n,StartPos,EndPos,startName,endName);
-			}
-			else
-			{
-				yield return  StartHanioMove(n-1,StartPos,EndPos,TransitionPos,startName,endName,transitionName);
-				yield return Move(n,StartPos,EndPos,startName,endName);
-				yield return StartHanioMove(n-1,TransitionPos,StartPos,EndPos,transitionName,startName,endName);
-			}
+		if (n==0)
+		{
+			yield break;
+		}
+		else
+		{
+			yield return  StartHanioMove(n-1,StartPos,EndPos,TransitionPos,startName,endName,transitionName);
+			yield return Move(n,StartPos,EndPos,startName,endName);
+			yield return StartHanioMove(n-1,TransitionPos,StartPos,EndPos,transitionName,startName,endName);
+		}
 	}
 
 	
