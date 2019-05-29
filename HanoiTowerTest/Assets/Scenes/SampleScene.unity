@@ -463,7 +463,7 @@ MonoBehaviour:
   TransitionPlates: []
   EndPlates: []
   AllPlates: []
-  ObjCount: 7
+  ObjCount: 8
 --- !u!4 &1706694662
 Transform:
   m_ObjectHideFlags: 0

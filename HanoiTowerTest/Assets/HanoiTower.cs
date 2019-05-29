@@ -21,12 +21,12 @@ public GameObject[] Pillar=new GameObject[3];                           //柱子
 
 	private int moveCount = 0;                                          //步数
 
-	private Color[] plateColors=new Color[7]{Color.red, Color.yellow, Color.blue, Color.green, Color.cyan, Color.black, Color.magenta};
+	private Color[] plateColors=new Color[9]{Color.red, Color.yellow, Color.blue, Color.green, Color.cyan, Color.black, Color.magenta,Color.grey,Color.white, };
 	// Use this for initialization
 	void Start ()
 	{
-		if (ObjCount > 7)
-			ObjCount = 7;
+		if (ObjCount > 9)
+			ObjCount = 9;
 		//创建盘子
 		for (int i = ObjCount; i > 0; i--) 
 		{
@@ -65,7 +65,7 @@ public GameObject[] Pillar=new GameObject[3];                           //柱子
 	
 	IEnumerator Move(int n,List<GameObject> StartPos,List<GameObject> EndPos,string startName,string endName)
 	{
-		yield return new WaitForSeconds(0.5f);
+		yield return new WaitForSeconds(0.1f);
 		EndPos.Add(AllPlates[n-1]);
 			
 		StartPos.Remove(AllPlates[n-1]);

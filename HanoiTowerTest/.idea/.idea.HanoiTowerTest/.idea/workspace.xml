@@ -13,20 +13,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/HanoiTower.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+            <state relative-caret-position="229">
+              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               <folding>
-                <marker date="1559014694391" expanded="true" signature="6:215" ph="..." />
-                <marker date="1559014694391" expanded="true" signature="257:3615" ph="{...}" />
-                <marker date="1559014694391" expanded="true" signature="1086:1762" ph="{...}" />
-                <marker date="1559014694391" expanded="true" signature="1173:1645" ph="{...}" />
-                <marker date="1559014694391" expanded="true" signature="1934:2341" ph="{...}" />
-                <marker date="1559014694391" expanded="true" signature="1986:2057" ph="{...}" />
-                <marker date="1559014694391" expanded="true" signature="2065:2338" ph="{...}" />
-                <marker date="1559014694391" expanded="true" signature="2451:3487" ph="{...}" />
-                <marker date="1559014694391" expanded="true" signature="2726:3475" ph="{...}" />
-                <marker date="1559014694391" expanded="true" signature="3508:3553" ph="{...}" />
-                <marker date="1559014694391" expanded="true" signature="3606:3613" ph="{...}" />
+                <marker date="1559110483828" expanded="false" signature="6:215" ph="..." />
+                <marker date="1559110483828" expanded="true" signature="257:3550" ph="{...}" />
+                <marker date="1559110483828" expanded="true" signature="1111:1787" ph="{...}" />
+                <marker date="1559110483828" expanded="true" signature="1198:1670" ph="{...}" />
+                <marker date="1559110483828" expanded="true" signature="1959:2276" ph="{...}" />
+                <marker date="1559110483828" expanded="true" signature="1974:1998" ph="{...}" />
+                <marker date="1559110483828" expanded="true" signature="2005:2273" ph="{...}" />
+                <marker date="1559110483828" expanded="true" signature="2386:3422" ph="{...}" />
+                <marker date="1559110483828" expanded="true" signature="2661:3410" ph="{...}" />
+                <marker date="1559110483828" expanded="true" signature="3443:3488" ph="{...}" />
+                <marker date="1559110483828" expanded="true" signature="3541:3548" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -51,6 +51,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/HanoiTower.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F718FBF7-147E-4022-82FD-ACF37BDD8584/4b/7865de81/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
@@ -62,22 +65,23 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="35" />
     <option name="width" value="1810" />
     <option name="height" value="1005" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
@@ -131,11 +135,12 @@
       <updated>1558944872616</updated>
       <workItem from="1558944874116" duration="12373000" />
       <workItem from="1559012541949" duration="2751000" />
+      <workItem from="1559110316686" duration="237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15124000" />
+    <option name="totallyTimeSpent" value="15361000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -147,10 +152,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="35" width="1810" height="1005" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21371429" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20149253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -168,7 +173,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" />
-      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5005714" side_tool="true" visible="true" weight="0.22968198" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5005714" side_tool="true" visible="true" weight="0.21690768" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -195,20 +200,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/HanoiTower.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        <state relative-caret-position="229">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           <folding>
-            <marker date="1559014694391" expanded="true" signature="6:215" ph="..." />
-            <marker date="1559014694391" expanded="true" signature="257:3615" ph="{...}" />
-            <marker date="1559014694391" expanded="true" signature="1086:1762" ph="{...}" />
-            <marker date="1559014694391" expanded="true" signature="1173:1645" ph="{...}" />
-            <marker date="1559014694391" expanded="true" signature="1934:2341" ph="{...}" />
-            <marker date="1559014694391" expanded="true" signature="1986:2057" ph="{...}" />
-            <marker date="1559014694391" expanded="true" signature="2065:2338" ph="{...}" />
-            <marker date="1559014694391" expanded="true" signature="2451:3487" ph="{...}" />
-            <marker date="1559014694391" expanded="true" signature="2726:3475" ph="{...}" />
-            <marker date="1559014694391" expanded="true" signature="3508:3553" ph="{...}" />
-            <marker date="1559014694391" expanded="true" signature="3606:3613" ph="{...}" />
+            <marker date="1559110483828" expanded="false" signature="6:215" ph="..." />
+            <marker date="1559110483828" expanded="true" signature="257:3550" ph="{...}" />
+            <marker date="1559110483828" expanded="true" signature="1111:1787" ph="{...}" />
+            <marker date="1559110483828" expanded="true" signature="1198:1670" ph="{...}" />
+            <marker date="1559110483828" expanded="true" signature="1959:2276" ph="{...}" />
+            <marker date="1559110483828" expanded="true" signature="1974:1998" ph="{...}" />
+            <marker date="1559110483828" expanded="true" signature="2005:2273" ph="{...}" />
+            <marker date="1559110483828" expanded="true" signature="2386:3422" ph="{...}" />
+            <marker date="1559110483828" expanded="true" signature="2661:3410" ph="{...}" />
+            <marker date="1559110483828" expanded="true" signature="3443:3488" ph="{...}" />
+            <marker date="1559110483828" expanded="true" signature="3541:3548" ph="{...}" />
           </folding>
         </state>
       </provider>
